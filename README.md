@@ -1,5 +1,5 @@
 ## Hi there 👋
-![Uploading image.png…]()
+<img width="741" height="860" alt="image" src="https://github.com/user-attachments/assets/2bcbe734-2b19-4342-8588-105e53a5ec59" />
 
 <!--
 **Dharnesh67/Dharnesh67** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
